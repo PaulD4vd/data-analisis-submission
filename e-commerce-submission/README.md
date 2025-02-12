@@ -19,4 +19,4 @@ pip install -r requirements.txt
 
 
 ### run
-streamlit run app.py
+streamlit run dahsboard.py
